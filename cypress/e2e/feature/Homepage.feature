@@ -14,7 +14,7 @@ Feature: Toqio Website - Homepage
         Then I have been redirect to the contact page
         And I can send an email to the company by submitting the form
 
-    Scenario: User shall be able to navigate through your website without getting any kinds of error
+    Scenario: User shall be able to navigate through your website without getting any kind of error
         Then I want to verify if all links are reachable   
 
     
